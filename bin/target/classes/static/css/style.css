@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background: #e2e2e2;
+}
+.nav-color {
+    background: #009688;
+}
+#nav-font-color {
+    padding-left: 75%;
+}
+#nav-font-color li a{
+    color: white;
+}
+
+.banner {
+    width: 100%;
+    height: 93vh;
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)) ,url(../Img/banner.jpg);
+    background-size: cover;
+    color: white;
+}
+.form-group {
+    padding-top: 10px;
+}
+.my-card{
+    padding: 20px;
+    background: white;
+}
+#btn {
+    padding-top: 10px;
+}
+.bold {
+    font-weight: 1.5rem;
+    font-style:oblique;
+}   
+.signup {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)) ,url(../Img/registator.jpg);
+    background-size: cover;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
